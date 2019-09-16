@@ -5,16 +5,16 @@ Interactive Device Design: Prelab Work for Lab 2
 
 Below are a list of ideas of interactions that can be done using a digital timer. Each idea is accompanied by a sketch to break it down further.
 1. Start a timer as the user throws a ball into the air and stop it as the user catches it.
-![Throw Ball State Machine](/images/PreLab2_ThrowBall)
+![Throw Ball State Machine](/images/PreLab2_ThrowBall.png)
 
 1. Turn an LED on for shorter and shorter intervals until it turns completely off.
-![LED Timer State Machine](/images/PreLab2_LEDTimer)
+![LED Timer State Machine](/images/PreLab2_LEDTimer.png)
 
 1. A whack-a-mole style game using LEDs and switches where the user has a certain amount of time in which to hit the correct switch.
-![Whackamole State Machine](/images/PreLab2_Whackamole)
+![Whackamole State Machine](/images/PreLab2_Whackamole.png)
 
 1. A beats mixer where the user can input audio loops and select how long each loop should play for before going to the next.
-![Beats Mixer State Machine](/images/PreLab2_BeatsMixer)
+![Beats Mixer State Machine](/images/PreLab2_BeatsMixer.png)
 
 1. Measure how many times a user can manually fade an LED from max to min within one minute.
 1. Measure how many resistors a user can identify within one minute.
