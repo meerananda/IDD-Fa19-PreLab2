@@ -26,5 +26,10 @@ Below are a list of ideas of interactions that can be done using a digital timer
 ![Rapid Fire State Machine](/images/PreLab2_RapidFire.png)
 
 1. Play a C major scale with whole notes, then repeat with half notes, then quarter, eighth and sixteenth notes.
+![Scale State Machine](/images/PreLab2_Scale.png)
+
 1. A dimmer bedtime light which dims an LED slowly over the span of 30 mins. Inversely, an LED that brightens over half an hour as an alarm clock.
+![Night Light State Machine](/images/PreLab2_NightLight.png)
+
 1. A game with a 10 second countdown for the user to click the correct input switch, and if they do so correctly then another 10 seconds is added on to the remaining number from the previous countdown.
+![Increment State Machine](/images/PreLab2_IncrementTimer.png)
