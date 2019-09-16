@@ -17,8 +17,14 @@ Below are a list of ideas of interactions that can be done using a digital timer
 ![Beats Mixer State Machine](/images/PreLab2_BeatsMixer.png)
 
 1. Measure how many times a user can manually fade an LED from max to min within one minute.
+![Manual Fade State Machine](/images/PreLab2_ManualFade.png)
+
 1. Measure how many resistors a user can identify within one minute.
+![Identify Resistor State Machine](/images/PreLab2_IdentifyResistor.png)
+
 1. A rapid fire quiz game where the users can use buzzers to indicate if they know the answer, and the user with the most correct answers within one minute wins.
+![Rapid Fire State Machine](/images/PreLab2_RapidFire.png)
+
 1. Play a C major scale with whole notes, then repeat with half notes, then quarter, eighth and sixteenth notes.
 1. A dimmer bedtime light which dims an LED slowly over the span of 30 mins. Inversely, an LED that brightens over half an hour as an alarm clock.
 1. A game with a 10 second countdown for the user to click the correct input switch, and if they do so correctly then another 10 seconds is added on to the remaining number from the previous countdown.
